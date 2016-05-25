@@ -4,6 +4,8 @@ Demonstrates a simple calculator.
 
 ### Behaviour
 
+##### `Arithmetic`
+
 ```
 As a mathematician
 So I can add numbers
@@ -15,6 +17,8 @@ As a mathematician
 So I can subtract
 I want to subtract two numbers on my calc
 ```
+
+##### `Printer`
 
 ```
 As mathematician
